@@ -2,6 +2,7 @@
 resource and knowledge share - public facing links for all things web3, MEV, and decentralized search
 
 RESOURCES
+
 Geth install and build - https://geth.ethereum.org/docs/getting-started
 Setting up an Ethereum node - https://ethereum.org/en/developers/docs/nodes-and-clients/
 
