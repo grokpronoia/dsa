@@ -21,6 +21,17 @@ beacon-chain-validator-rewards/
 
 Flashbots overview - https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752
 
+MEV value added - https://pdaian.com/blog/mev-wat-do/
+
+Ethereum is a dark forest - https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest/
+
+MEV in ETH2.0 - https://hackmd.io/@flashbots/mev-in-eth2
+
+Quantifying MEV - https://hackmd.io/@flashbots/quantifying-REV
+
+THE READING LIST - https://www.decentralised.co/the-reading-list/
+
+
 **WHITE PAPERS**
 
 Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges - https://arxiv.org/pdf/1904.05234.pdf
