@@ -29,6 +29,10 @@ resource and knowledge share - public facing links for all things web3, MEV, and
 
 [THE READING LIST](https://www.decentralised.co/the-reading-list/)
 
+[Ethereum Virtual Machine explained](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+
+[EVM Opcodes](https://www.ethervm.io/)
+
 
 **WHITE PAPERS**
 
