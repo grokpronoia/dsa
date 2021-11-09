@@ -7,6 +7,8 @@ resource and knowledge share - public facing links for all things web3, MEV, and
 
 [Setting up an Ethereum node](https://ethereum.org/en/developers/docs/nodes-and-clients/)
 
+[List of DEX](https://vfat.tools/)
+
 **KNOWLEDGE** 
 
 [MEV overview](https://ethereum.org/en/developers/docs/mev/)
