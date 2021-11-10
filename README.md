@@ -75,3 +75,5 @@ resource and knowledge share - public facing links for all things web3, MEV, and
 [Cow Swap](https://docs.cowswap.exchange)
 
 [Maker DAO](https://makerdao.com/en/whitepaper/)
+
+[EDEN](https://edennetwork.io/EDEN_Network___Whitepaper___2021_07.pdf)
