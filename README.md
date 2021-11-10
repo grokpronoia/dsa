@@ -79,6 +79,6 @@ resource and knowledge share - public facing links for all things web3, MEV, and
 
 [EDEN](https://edennetwork.io/EDEN_Network___Whitepaper___2021_07.pdf)
 
-** Courses and Learning Material **
+**Courses and Learning Material**
 
 [Coursera Course on Smart Contracts for Beginners](https://www.coursera.org/learn/smarter-contracts/home/welcome)
