@@ -35,6 +35,7 @@ resource and knowledge share - public facing links for all things web3, MEV, and
 
 [EVM Opcodes](https://www.ethervm.io/)
 
+[Blockchain Bridges](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
 
 **WHITE PAPERS**
 
