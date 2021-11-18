@@ -88,3 +88,5 @@ resource and knowledge share - public facing links for all things web3, MEV, and
 [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 [Beyond Smart Contract Best Practices for UX and Interoperability](https://medium.com/@maurelian/beyond-smart-contract-best-practices-for-ux-and-interoperability-6d94d27c1e0f)
+
+[Solidity Smart contract Security best practices](https://lightrains.com/blogs/smart-contract-best-practices-solidity)
