@@ -86,3 +86,5 @@ resource and knowledge share - public facing links for all things web3, MEV, and
 [Coursera Course on Smart Contracts for Beginners](https://www.coursera.org/learn/smarter-contracts/home/welcome)
 
 [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+
+[Beyond Smart Contract Best Practices for UX and Interoperability](https://medium.com/@maurelian/beyond-smart-contract-best-practices-for-ux-and-interoperability-6d94d27c1e0f)
